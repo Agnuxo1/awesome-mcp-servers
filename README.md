@@ -3,6 +3,10 @@
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/wong2/awesome-mcp-servers">upstream project</a>’s separation of reference, official and community MCP servers, clients and frameworks. Developers can discover existing connectors before implementing custom tool integrations and assess the provenance of each option. The contribution is a reusable interoperability index; a listing does not validate a server’s security, reliability or resource efficiency.</sub>
+<!-- impact-note:end -->
+
 ## Sponsors
 
 <div align="center">
